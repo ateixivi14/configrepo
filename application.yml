@@ -1,0 +1,5 @@
+
+username: postgres
+url: jdbc:postgresql://localhost:5432/postgres
+password: '{cipher}9a8885f05deb534674d39d62c0acbd2ddc98d8701e3de5186753f1ca7071ac8eb6d0e0e5cc3410c08a65d9be2bc86788'
+message: Hello, this is from cloudrepo!
